@@ -1,0 +1,60 @@
+{
+  "1": {
+    "name": "تيشيرت رياضي قصير الأكمام",
+    "description": "تيشيرت خفيف ومريح مناسب للأنشطة الرياضية والمشي اليومي.",
+    "priceBeforeDiscount": 1200,
+    "priceAfterDiscount": 800,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["#1E90FF", "#000000", "#FFFFFF"],
+    "images": [
+      "https://m.media-amazon.com/images/I/41CjezzLcYL._SY1000_.jpg",
+      "https://m.media-amazon.com/images/I/6163KKfveNL._AC_SL1000_.jpg"
+    ]
+  },
+  "2": {
+    "name": "قميص كتان بأكمام طويلة",
+    "description": "قميص أنيق من قماش الكتان الناعم بلمسة رسمية وعصرية.",
+    "priceBeforeDiscount": 2500,
+    "priceAfterDiscount": 1800,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["#F5F5DC", "#708090"],
+    "images": [
+      "https://api-prod.thatconceptstore.com/medias/-original-LAVLUCS23M-BOUR-900-1.webp-convert-600x800?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE2NDEyfGltYWdlL3dlYnB8YURNeUwyZzRaQzh4TVRRNE9EQXhPVFEwTnpnek9DOHZiM0pwWjJsdVlXd3ZURUZXVEZWRFV6SXpUVjlDVDFWU1h6a3dNRjh4TG5kbFluQmZZMjl1ZG1WeWRDMDJNREI0T0RBd3xmYWI0OTlmNDQxOWY5OWE0Mjc3ZTkzOWM0ZDJlYzJiODMxODVkNzJkMjVlYWE1ZmNjNWRhMWQ2MDYxMGI3OGFl"
+    ]
+  },
+  "3": {
+    "name": "بنطال قماشي رجالي",
+    "description": "بنطال مريح وخفيف بقصة مستقيمة، مثالي للعمل والمناسبات.",
+    "priceBeforeDiscount": 4500,
+    "priceAfterDiscount": 3300,
+    "sizes": ["30", "32", "34", "36"],
+    "colors": ["#2F4F4F", "#A9A9A9"],
+    "images": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/42152/uploads/urunresimleri/buyuk/yuksek-bel-boyfriend-toka-kemerli-pile-b-933b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/42152/uploads/urunresimleri/buyuk/yuksek-bel-boyfriend-toka-kemerli-pile-2d9977.jpg"
+    ]
+  },
+  "4": {
+    "name": "سترة شتوية بسحاب كامل",
+    "description": "سترة دافئة ببطانة داخلية وسحاب أمامي، مناسبة لفصل الشتاء.",
+    "priceBeforeDiscount": 5000,
+    "priceAfterDiscount": 4000,
+    "sizes": ["L", "XL", "XXL"],
+    "colors": ["#A52A2A", "#000000"],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3jaa9tkzZIG35ysuZIe4aKZZ5L5DSB4N64g&s"
+    ]
+  },
+  "5": {
+    "name": "عباءة نسائية مطرزة",
+    "description": "عباءة أنيقة بخياطة دقيقة وتطريز ناعم، مثالية للمناسبات.",
+    "priceBeforeDiscount": 4000,
+    "priceAfterDiscount": 2950,
+    "sizes": ["Free Size"],
+    "colors": ["#2C2C2C", "#8B0000"],
+    "images": [
+      "https://img.joomcdn.net/fc27ff9bd44105240d68b287addc4fe57e51f641_original.jpeg",
+      "https://cdn.salla.sa/OgQqD/de28bf5e-eaaa-40d3-9b56-cac518f4452d-750x1000-n6DqIjlcccx7oIlbwXx2lbmIaH6PVwCaFfWyOoi2.jpg"
+    ]
+  }
+}
