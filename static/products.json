@@ -16,8 +16,8 @@
     "description": "قميص أنيق من قماش الكتان الناعم بلمسة رسمية وعصرية.",
     "priceBeforeDiscount": 2500,
     "priceAfterDiscount": 1800,
-    "sizes": ["M", "L", "XL"],
-    "colors": ["#F5F5DC", "#708090"],
+    "sizes": [],
+    "colors": [],
     "images": [
       "https://api-prod.thatconceptstore.com/medias/-original-LAVLUCS23M-BOUR-900-1.webp-convert-600x800?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE2NDEyfGltYWdlL3dlYnB8YURNeUwyZzRaQzh4TVRRNE9EQXhPVFEwTnpnek9DOHZiM0pwWjJsdVlXd3ZURUZXVEZWRFV6SXpUVjlDVDFWU1h6a3dNRjh4TG5kbFluQmZZMjl1ZG1WeWRDMDJNREI0T0RBd3xmYWI0OTlmNDQxOWY5OWE0Mjc3ZTkzOWM0ZDJlYzJiODMxODVkNzJkMjVlYWE1ZmNjNWRhMWQ2MDYxMGI3OGFl"
     ]
@@ -28,7 +28,7 @@
     "priceBeforeDiscount": 4500,
     "priceAfterDiscount": 3300,
     "sizes": ["30", "32", "34", "36"],
-    "colors": ["#2F4F4F", "#A9A9A9"],
+    "colors": ["#2F4F4F"],
     "images": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/42152/uploads/urunresimleri/buyuk/yuksek-bel-boyfriend-toka-kemerli-pile-b-933b.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/42152/uploads/urunresimleri/buyuk/yuksek-bel-boyfriend-toka-kemerli-pile-2d9977.jpg"
@@ -39,7 +39,7 @@
     "description": "سترة دافئة ببطانة داخلية وسحاب أمامي، مناسبة لفصل الشتاء.",
     "priceBeforeDiscount": 5000,
     "priceAfterDiscount": 4000,
-    "sizes": ["L", "XL", "XXL"],
+    "sizes": ["L"],
     "colors": ["#A52A2A", "#000000"],
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3jaa9tkzZIG35ysuZIe4aKZZ5L5DSB4N64g&s"
